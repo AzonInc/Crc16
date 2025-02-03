@@ -1,18 +1,17 @@
 {
     "name": "Crc16",
     "keywords": "CRC, crc, crc16",
-    "description": "Arduino Library for CRC-16 checks",
+    "description": "Library for CRC-16 checks",
     "authors": [
         {
             "name": "Vincenzo Mennella",
             "maintainer": true
         }
     ],
+    "version": "1.0.0",
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://https://github.com/vinmenn/Crc16.git"
-    },
-    "version": "0.1.2",
-    "frameworks": "arduino",
-    "platforms": "*"
+        "url": "https://github.com/AzonInc/Crc16.git"
+    }
 }

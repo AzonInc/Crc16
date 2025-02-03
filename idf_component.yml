@@ -1,0 +1,8 @@
+## IDF Component Manager Manifest File
+version: "1.0.0"
+license: "MIT"
+description: "Library for CRC-16 checks"
+url: "https://github.com/AzonInc/Crc16"
+repository: "https://github.com/AzonInc/Crc16"
+maintainers:
+  - Vincenzo Mennella
